@@ -63,6 +63,9 @@ namespace VscodeSpider
             cityCrawler.Start(new Uri(cityUrl)).Wait();//没被封锁就别使用代理：60.221.50.118:8090
         }
 
+        /// <summary>
+        /// 爬取水晶DJ网
+        /// </summary>
         public static void CrystalSpider(){
             var  baseurl="http://m.oscaches.com/mp4/djmusic/myxc/20170824/";
             // var  url="http://m.oscaches.com/mp4/djmusic/myxc/20170824/8.mp4";
@@ -100,7 +103,7 @@ namespace VscodeSpider
             }
             catch (System.Exception)
             {
- Console.WriteLine("爬取失败，报异常了：当前url："+url+"，当前文件名称："+name);
+                Console.WriteLine("爬取失败，报异常了：当前url："+url+"，当前文件名称："+name);
             }                        
         }
 
