@@ -1,0 +1,10 @@
+E:\Code\VSCode\Spider\VscodeSpider\obj\Debug\netcoreapp2.0\VscodeSpider.csproj.CoreCompileInputs.cache
+E:\Code\VSCode\Spider\VscodeSpider\obj\Debug\netcoreapp2.0\VscodeSpider.AssemblyInfoInputs.cache
+E:\Code\VSCode\Spider\VscodeSpider\obj\Debug\netcoreapp2.0\VscodeSpider.AssemblyInfo.cs
+E:\Code\VSCode\Spider\VscodeSpider\bin\Debug\netcoreapp2.0\VscodeSpider.deps.json
+E:\Code\VSCode\Spider\VscodeSpider\bin\Debug\netcoreapp2.0\VscodeSpider.runtimeconfig.json
+E:\Code\VSCode\Spider\VscodeSpider\bin\Debug\netcoreapp2.0\VscodeSpider.runtimeconfig.dev.json
+E:\Code\VSCode\Spider\VscodeSpider\bin\Debug\netcoreapp2.0\VscodeSpider.dll
+E:\Code\VSCode\Spider\VscodeSpider\bin\Debug\netcoreapp2.0\VscodeSpider.pdb
+E:\Code\VSCode\Spider\VscodeSpider\obj\Debug\netcoreapp2.0\VscodeSpider.dll
+E:\Code\VSCode\Spider\VscodeSpider\obj\Debug\netcoreapp2.0\VscodeSpider.pdb
