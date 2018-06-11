@@ -81,6 +81,11 @@ namespace VscodeSpider
             }            
         }
         
+        /// <summary>
+        /// 执行爬取
+        /// </summary>
+        /// <param name="url"></param>
+        /// <param name="name"></param>
         private static void Do(string url,string name){
             try
             {
