@@ -63,6 +63,8 @@ namespace VscodeSpider
             cityCrawler.Start(new Uri(cityUrl)).Wait();//没被封锁就别使用代理：60.221.50.118:8090
         }
 
+        //定义全局变量，记录成功次数
+        static int i=0;
         /// <summary>
         /// 爬取水晶DJ网
         /// </summary>
@@ -78,7 +80,7 @@ namespace VscodeSpider
                
             }            
         }
-        static int i=0;
+        
         private static void Do(string url,string name){
             try
             {
